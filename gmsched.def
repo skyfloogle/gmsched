@@ -1,0 +1,6 @@
+EXPORTS
+gmsched_init
+scheduler_resolution_set
+scheduler_resolution_get
+scheduler_resolution_get_min
+scheduler_resolution_get_max

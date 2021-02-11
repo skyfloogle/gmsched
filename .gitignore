@@ -1,0 +1,6 @@
+*.obj
+*.exp
+*.lnk
+*.lib
+*.dll
+*.gmez
